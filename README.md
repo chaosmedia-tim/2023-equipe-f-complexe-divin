@@ -2,7 +2,7 @@
 # Modèle github pages pour votre journal de création
 
 ## Lien pour visualiser le site (À CHANGER)
-https://choasmedia-tim.github.io/2023-equipe-f-complexe-divin
+https://chaosmedia-tim.github.io/2023-equipe-f-complexe-divin
 
 
 ## Consignes
