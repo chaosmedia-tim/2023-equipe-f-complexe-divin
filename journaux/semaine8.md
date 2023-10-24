@@ -9,3 +9,5 @@ Votre journal doit inclure un résumé de la semaine, vos bon coups et réussite
 
 Vous devez inclure des images, liens et autre contenu nécéssaire pour supporter vos explications et montrer l'avancement du projet.
 
+# H1 Jérémy Provost
+![Debut video](image.jpg)
