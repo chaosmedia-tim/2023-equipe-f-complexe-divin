@@ -11,3 +11,4 @@ Vous devez inclure des images, liens et autre contenu nécéssaire pour supporte
 
 # Jérémy Provost
 ![Debut video](../images/Base_premiere.PNG)
+J'ai commencé à faire la base du fichier Premiere avec les captures du sprint 1 et des rushs de mes coéquipiers.
