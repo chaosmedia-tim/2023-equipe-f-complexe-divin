@@ -24,4 +24,4 @@ Cette semaine, j'ai modélisé des assets en 3D qui seront intégrés dans les s
 
 De plus, j'ai continué d'alimenter les réseaux sociaux avec des images de notre projet!
 
-![Part2 reseaux](../images/reseau_2.png)
+![Part2 reseaux](../images/reseau_2.PNG)
