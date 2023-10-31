@@ -19,6 +19,9 @@ J'ai commencé la modélisation des assets de la zone de pollution.
 
 # Vincent Lachapelle
 Cette semaine, j'ai modélisé des assets en 3D qui seront intégrés dans les scènes. Mes assets se concentrent ur l'aspect urbain du projet. Par exemple, j'ai fait des panneaux de circulation, un arrêt de bus, un éolienne, et plus. Voici quelques photos.
+
 ![Part1 3D ville](../images/assets.jpg)
 
 De plus, j'ai continué d'alimenter les réseaux sociaux avec des images de notre projet!
+
+![Part2 reseaux](../images/reseau_2.png)
