@@ -17,6 +17,9 @@ J'ai commencé à faire la base du fichier Premiere avec les captures du sprint 
 ![Debut modélisation](../images/automne_v01.png)
 J'ai commencé la modélisation des éléments de la scène d'automne. En les créant, je m'assure qu'ils soient facilement réutilisables pour d'autres saisons, de sorte qu'une fois l'automne terminé, les autres saisons soient plus rapides à réaliser. J'ai également testé certains morceaux de code, tels que le compteur d'ouverture de scène et le changement de textures. Cependant, avec les changements que nous avons apportés à notre projet, ces morceaux de code ne seront pas utilisés.
 
+![Debut intégration dans unity](../images/unityProps_s8.jpg)
+Vers la fin de la semaine, j'ai également commencé à intégrer les modèles de Blender dans Unity pour m'assurer que tout était compatible.
+
 # Vincent Lachapelle
 ![Debut réseaux sociaux](../images/reseaux.jpg)
 Pour cette semaine, je me suis concentré sur la création des réseaux sociaux pour promouvoir le projet. Je me suis assuré qu'ils soient conforment aux consignes et j'ai également publier des images.
