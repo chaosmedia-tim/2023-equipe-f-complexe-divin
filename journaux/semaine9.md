@@ -15,3 +15,8 @@ j'ai complété le montage de la capsule vidéo. Il me manque juste la démonstr
 
 ![Part1 3D_pollution](../images/3D_feux.JPG)
 J'ai commencé la modélisation des assets de la zone de pollution.
+
+
+# Vincent Lachapelle
+Cette semaine, j'ai modélisé des assets en 3D qui seront intégrés dans les scènes. Mes assets se concentrent ur l'aspect urbain du projet. Par exemple, j'ai fait des panneaux de circulation, un arrêt de bus, un éolienne, et plus. Voici quelques photos.
+![Part1 3D ville](../images/assets.jpg)
