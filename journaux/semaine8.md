@@ -25,3 +25,6 @@ Vers la fin de la semaine, j'ai également commencé à intégrer les modèles d
 Pour cette semaine, je me suis concentré sur la création des réseaux sociaux pour promouvoir le projet. Je me suis assuré qu'ils soient conforment aux consignes et j'ai également publier des images.
 Facebook: https://www.facebook.com/profile.php?id=61552287817167
 Instagram: https://www.instagram.com/complexe_divin/?next=%2F
+# Pierre-Carl Gagnon
+Cette semaine je me suis occupé de trouver une facon de migrer la librairie joycon ainsi de céer la scene 1. 
+
