@@ -25,3 +25,7 @@ Cette semaine, j'ai modélisé des assets en 3D qui seront intégrés dans les s
 De plus, j'ai continué d'alimenter les réseaux sociaux avec des images de notre projet!
 
 ![Part2 reseaux](../images/reseau_2.PNG)
+
+# Rosalie Blanchet
+![Debut intégration dans unity](../images/unityProps_s8.jpg)
+Vers la fin de la semaine, j'ai également commencé à intégrer les modèles de Blender dans Unity pour m'assurer que tout était compatible.
