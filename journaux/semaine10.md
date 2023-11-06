@@ -10,5 +10,5 @@ Votre journal doit inclure un résumé de la semaine, vos bon coups et réussite
 Vous devez inclure des images, liens et autre contenu nécéssaire pour supporter vos explications et montrer l'avancement du projet.
 
 # Jérémy Provost
-![Image_terrain_base](../images/Video_part2.JPG)
-j'ai complété le montage de la capsule vidéo. Il me manque juste la démonstration préliminaire à intégrer. Je me suis grandement inspiré des textes de présentation des jeux Zelda.
+![Image_terrain_base](../images/Scene_terrain_base.jpg)
+j'ai complété une partie de la première zone de terrain qui est considéré comme le paysage de l'été. Par la suite on va intégrer la ville et la zone pollution dans la même scène avec des animations. J'ai texturé le sol et les montagnes inclus.
