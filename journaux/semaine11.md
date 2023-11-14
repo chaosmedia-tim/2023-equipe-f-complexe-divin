@@ -32,4 +32,4 @@ Ensuite j'ai animé le véhicule du moment vil à être. Les assets sont libres 
 ![Voiture](../images/Voiture_animation.PNG)
 
 Pour finir, j'ai terminé l'affiche du projet pour la présentation du 29 novembre. Le prof a approuvé donc je vais bientôt l'envoyer pour l'impression.
-![Affiche](../images/Complexe_divin_affiche_v3.PNG)
+![Affiche](../images/Complexe_divin_affiche_v3.pdf)
