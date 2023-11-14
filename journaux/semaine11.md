@@ -23,3 +23,13 @@ J'ai également modélisé plus d'assets pour le projet comme une montgolfière,
 ![Image_matériel](../images/bonhomme.PNG)
 
 Finalement, j'ai fait des tests avec les projecteurs en classe pour m'assurer qu'on est capable d'avoir plusieurs caméra en même temps et ça marche!
+
+# Jérémy Provost
+Cette semaine, j'ai commencé par la finition du son pour chacune des saisons. Sur une durée de 3600 frames qui équivaut à 2 minutes. Ça n'a pas été long.
+![Son_finaux](../images/Son_final.PNG)
+
+Ensuite j'ai animé le véhicule du moment vil à être. Les assets sont libres de droits. Le feu doit ensuite apparaitre pour démontrer la dégradation.
+![Voiture](../images/Voiture_animation.PNG)
+
+Pour finir, j'ai terminé l'affiche du projet pour la présentation du 29 novembre. Le prof a approuvé donc je vais bientôt l'envoyer pour l'impression.
+![Affiche](../images/Complexe_divin_affiche_v3.PNG)
