@@ -15,4 +15,4 @@ Cette semaine, j'ai finaliser la modélisation d'assets à intégrer dans les sc
 ![Image_scene](../images/sceneprintemps.png)
 
 # Pierre-Carl Gagnon
-Cette semaine, j'ai finaliser les changement de scene pour que on est la meme frame d'animation de scene a autre, le capteur de distance qui déclenche un eclaire
+Cette semaine, j'ai finaliser les changement de scene pour que on est la meme frame d'animation de scene a autre, j'ai programmer le bouton qui fais jour ou nuit lorsque on click sur la planete terre la nuit vas tomber et si on reclique le soleil se leve.
