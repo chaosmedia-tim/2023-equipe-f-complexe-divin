@@ -33,3 +33,7 @@ Ensuite j'ai animé le véhicule du moment vil à être. Les assets sont libres 
 
 Pour finir, j'ai terminé l'affiche du projet pour la présentation du 29 novembre. Le prof a approuvé donc je vais bientôt l'envoyer pour l'impression.
 ![Affiche](../images/Complexe_divin_affiche_v3.pdf)
+
+
+# Pierre-Carl Gagnon
+Programation de l'arduino avec des capteurs de distance pour permettre que quand je passe ma main devant le capteur un éclair se déclenche, régler les changement de scene car les frames ne se suivait pas et la scene se loadais en boucle.
