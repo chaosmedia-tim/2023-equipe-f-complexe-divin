@@ -18,4 +18,6 @@ Cette semaine, j'ai finaliser la modélisation d'assets à intégrer dans les sc
 Cette semaine, j'ai finaliser les changement de scene pour que on est la meme frame d'animation de scene a autre, j'ai programmer le bouton qui fais jour ou nuit lorsque on click sur la planete terre la nuit vas tomber et si on reclique le soleil se leve.
 
 # Jérémy Provost
+Cette semaine, j'ai commencé par la création de l'affiche réel qui sera présenté pendant le ChaosMedia
+![Affiche_reel](../images/Jay_sem12_Complexe_divin_affiche_v3.jpg)
 
