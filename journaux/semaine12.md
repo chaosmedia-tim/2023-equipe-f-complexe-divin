@@ -21,5 +21,9 @@ Cette semaine, j'ai finaliser les changement de scene pour que on est la meme fr
 Cette semaine, j'ai commencé par la création de l'affiche réel qui sera présenté pendant le ChaosMedia, je l'ai ensuite imprimé
 ![Affiche_reel](../images/Jay_sem12_Complexe_divin_affiche_v3.jpg)
 Ensuite, j'ai réalisé deux vidéos capsules de 30 secondes, avec la même ambiance et couleur du projet
-![Affiche_reel](../images/Jay_sem12_Video_1.JPG)
+![Video_cap_sp_3](../images/Jay_sem12_Video_1.JPG)
+Sur le projet, j'ai complété l'animation de la base du projet, avec les parties paysages, villes et pollutions.
+![Animation_ete](../images/Jay_sem12_Animation_polution.JPG)
+Pour finalement, j'ai complété la scène printemp avec quelque modification
+![Scene_printemp](../images/Jay_sem12_Scene_printemp.JPG)
 
