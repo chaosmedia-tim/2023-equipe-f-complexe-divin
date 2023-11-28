@@ -29,7 +29,7 @@ Pour finalement, j'ai complété la scène printemp avec quelque modification
 
 # Rosalie Blanchet 
 Cette semaine, j'ai finalisé les deux thumbnail pour les mettres sur le site chaos media 
-![Thumbnail](../images/s12_ro_figma.jpg)
+![Thumbnail](../images/s12_ro_figma.png)
 Ensuite j'ai modifier toutes les scenes pour qu'on puisse les importer dans unity et j'ai linker les textures pour qu'ils soient fonctionnels dans la scène.
-![unity](../images/s12_ro_unity.jpg)
+![unity](../images/s12_ro_unity.png)
 
