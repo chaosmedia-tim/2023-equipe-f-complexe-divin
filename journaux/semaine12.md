@@ -27,3 +27,9 @@ Sur le projet, j'ai complété l'animation de la base du projet, avec les partie
 Pour finalement, j'ai complété la scène printemp avec quelque modification
 ![Scene_printemp](../images/Jay_sem12_Scene_printemp.JPG)
 
+# Rosalie Blanchet 
+Cette semaine, j'ai finalisé les deux thumbnail pour les mettres sur le site chaos media 
+![Thumbnail](../images/s12_ro_figma.jpg)
+Ensuite j'ai modifier toutes les scenes pour qu'on puisse les importer dans unity et j'ai linker les textures pour qu'ils soient fonctionnels dans la scène.
+![unity](../images/s12_ro_unity.jpg)
+
