@@ -12,3 +12,5 @@ Vous devez inclure des images, liens et autre contenu nécéssaire pour supporte
 # Vincent Lachapelle
 Cette semaine, j'ai peinturer les planètes avec de multiples couches de peintures pour que les couleurs soient belle. Je suis aussi allé acheter des choses importantes au Dollorama et au Rona. J'ai continué d'alimenter les réseaux sociaux. 
 J'ai testé les projecteurs que nous avons utilisés pour la générale, cependant, nous nous enlignons maintenant sur de la réalité virtuelle pour le projet. Il y avait aussi la générale de Chaos Média. Nous avons donc testé en équipe le projet pour soulever les points positifs et négatifs.
+
+![Image_scene](../images/scene.jpg)
