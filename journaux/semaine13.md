@@ -14,3 +14,7 @@ Cette semaine, j'ai peinturer les planètes avec de multiples couches de peintur
 J'ai testé les projecteurs que nous avons utilisés pour la générale, cependant, nous nous enlignons maintenant sur de la réalité virtuelle pour le projet. Il y avait aussi la générale de Chaos Média. Nous avons donc testé en équipe le projet pour soulever les points positifs et négatifs.
 
 ![Image_scene](../images/scene.jpg)
+
+# Rosalie Blanchet
+Cette semaine j'ai terminer l'animation des 4 animaux qui bougent, j'ai crée les textures qui allais etre utilisé pour les systèmes de particules. J'ai également ajouté des modèles 3D et des animations pour remplire la scène de polution.
+![Image_scene](../images/hiverpollutions_s13.jpg)
