@@ -13,3 +13,8 @@ Vous devez inclure des images, liens et autre contenu nécéssaire pour supporte
 Cette semaine, j'ai fait la 4eme partie de la scène pour adapater la scène en réalité virtuelle. J'ai ajouté des collines, du reliefs et des éoliennes. J'ai testé l'adaptation du projet en vr pour trouver des choses qui ne fonctionnent pour l'améliorer. De plus, j'ai fais le script pour l'effet des oiseaux et pour redémarrer la scène lorsqu'on le souhaite, en plus de trouver un moyen de redémarrer la scène automatiquement. Finalement, j'ai publié sur nos réseaux sociaux pour les garder actifs.
 
 ![Image_scene](../images/scene360.png)
+
+# Rosalie Blanchet
+Nous avons migré vers la vr. Alors pour que les utilisateur puissent encore intéragire avec la table dans la vrai vie, j'ai crée un nouveau model 3D de la table à l'échelle. De plus j'ai crées des nouveau modéle de papillons et une animation pour que le début de notre scène soit un peu plus vivant.
+![Image_scene](../images/table_s14.jpg)
+
