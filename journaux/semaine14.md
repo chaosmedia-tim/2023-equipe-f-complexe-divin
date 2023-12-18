@@ -23,4 +23,4 @@ Pour remplacer l'animation des particules, on à intégré une animation d'oisea
 ![OiseauAnimation](../images/Jay_sem14_Animation_oiseau.JPG)
 
 Pour engendré plus de variété, j'ai changé des assets des renards que j'ai fait la semaine passé pour une moufette et un lapin, des assets créer par Rosalie.
-![AnimMouffette](../images/Jay_sem14_AnimMouffette.JPG)
+![AnimMouffette](../images/Jay_sem_14_AnimMouffette.JPG)
