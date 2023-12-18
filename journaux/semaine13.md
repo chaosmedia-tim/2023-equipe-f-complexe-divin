@@ -27,5 +27,5 @@ Ensuite, pour créer une plus grande variété d'animation, j'ai créer d'autre 
 ![AnimRenard](../images/Jay_sem13_Animation_renard.JPG)
 
 # Pierre-Carl Gagnon
-Cette semaine j<ai du reprogramer le projet en vr, aussi j'ai regler certain bug et integrer differente chose dans le projet comme par exemple nuage, transition, et autre chose dont je ne me rappele plus. 
+Cette semaine, j'ai entrepris une session intensive de reprogrammation du projet en réalité virtuelle. En plus de résoudre divers bugs, j'ai apporté des améliorations significatives en intégrant de nouvelles fonctionnalités, telles que la simulation de nuages, des transitions fluides et d'autres éléments dont la liste détaillée m'échappe pour le moment. L'objectif était d'optimiser l'expérience utilisateur en offrant une immersion plus poussée et des interactions plus riches. Ce processus de développement a été une opportunité passionnante pour repousser les limites du projet et le rendre encore plus captivant. 
 ![Image_scene](../images/light.png)
