@@ -25,3 +25,6 @@ Pour commencer cette semaine, j'ai conclu la capsule vidéo du sprint 2 et 3.
 
 Ensuite, pour créer une plus grande variété d'animation, j'ai créer d'autre animation de renard qui ce promaine dans la scène.
 ![AnimRenard](../images/Jay_sem13_Animation_renard.JPG)
+
+# Pierre-Carl Gagnon
+Cette semaine j<ai du reprogramer le projet en vr, aussi j'ai regler certain bug et integrer differente chose dans le projet comme par exemple nuage, transition, et autre chose dont je ne me rappele plus. 
