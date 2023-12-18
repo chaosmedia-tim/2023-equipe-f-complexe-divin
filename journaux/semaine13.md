@@ -18,3 +18,10 @@ J'ai testé les projecteurs que nous avons utilisés pour la générale, cependa
 # Rosalie Blanchet
 Cette semaine j'ai terminer l'animation des 4 animaux qui bougent, j'ai crée les textures qui allais etre utilisé pour les systèmes de particules. J'ai également ajouté des modèles 3D et des animations pour remplire la scène de polution.
 ![Image_scene](../images/hiverpollutions_s13.jpg)
+
+# Jérémy Provost
+Pour commencer cette semaine, j'ai conclu la capsule vidéo du sprint 2 et 3.
+![Video_cap](../images/Jay_sem13_Video_Capsule.JPG)
+
+Ensuite, pour créer une plus grande variété d'animation, j'ai créer d'autre animation de renard qui ce promaine dans la scène.
+![AnimRenard](../images/Jay_sem13_Animation_renard.JPG)
