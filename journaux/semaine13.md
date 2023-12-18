@@ -21,7 +21,7 @@ Cette semaine j'ai terminer l'animation des 4 animaux qui bougent, j'ai crée le
 
 # Jérémy Provost
 Pour commencer cette semaine, j'ai conclu la capsule vidéo du sprint 2 et 3.
-![Video_cap](../images/Jay_sem13_Video_capsule.JPG)
+![Video_cap](../images/Jay_sem_13_Video_capsule.JPG)
 
 Ensuite, pour créer une plus grande variété d'animation, j'ai créer d'autre animation de renard qui ce promaine dans la scène.
 ![AnimRenard](../images/Jay_sem13_Animation_renard.JPG)
