@@ -28,4 +28,4 @@ Ensuite, pour créer une plus grande variété d'animation, j'ai créer d'autre 
 
 # Pierre-Carl Gagnon
 Cette semaine j<ai du reprogramer le projet en vr, aussi j'ai regler certain bug et integrer differente chose dans le projet comme par exemple nuage, transition, et autre chose dont je ne me rappele plus. 
-(../images/light.png)
+![Image_scene](../images/light.png)
