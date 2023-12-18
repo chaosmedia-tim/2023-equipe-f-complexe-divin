@@ -18,3 +18,9 @@ Cette semaine, j'ai fait la 4eme partie de la scène pour adapater la scène en 
 Nous avons migré vers la vr. Alors pour que les utilisateur puissent encore intéragire avec la table dans la vrai vie, j'ai crée un nouveau model 3D de la table à l'échelle. De plus j'ai crées des nouveau modéle de papillons et une animation pour que le début de notre scène soit un peu plus vivant. J'ai egalement remis les textures dans les scene unity.
 ![Image_scene](../images/table_s14.jpg)
 
+# Jérémy Provost
+Pour remplacer l'animation des particules, on à intégré une animation d'oiseau avec des assets de Sketchfab.
+![OiseauAnimation](../images/Jay_sem14_Animation_oiseau.JPG)
+
+Pour engendré plus de variété, j'ai changé des assets des renards que j'ai fait la semaine passé pour une moufette et un lapin, des assets créer par Rosalie.
+![AnimMouffette](../images/Jay_sem14_AnimMouffette.JPG)
