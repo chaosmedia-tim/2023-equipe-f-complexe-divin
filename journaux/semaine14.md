@@ -15,7 +15,7 @@ Cette semaine, j'ai fait la 4eme partie de la scène pour adapater la scène en 
 ![Image_scene](../images/scene360.png)
 
 # Rosalie Blanchet
-Nous avons migré vers la vr. Alors pour que les utilisateur puissent encore intéragire avec la table dans la vrai vie, j'ai crée un nouveau model 3D de la table à l'échelle. De plus j'ai crées des nouveau modéle de papillons et une animation pour que le début de notre scène soit un peu plus vivant. J'ai egalement remis les textures dans les scene unity.
+Nous avons migré vers la vr. Alors pour que les utilisateur puissent encore intéragire avec la table dans la vrai vie, j'ai crée un nouveau model 3D de la table à l'échelle. De plus j'ai crées des nouveau modéle de papillons et une animation pour que le début de notre scène soit un peu plus vivant. J'ai egalement remis les textures dans les scene unity. J'ai également fait les derniers ajustement pour que la scene sois un peu plus belle. J'ai modifier l'éclairage, le fonctionnement des particules, j'ai ajouté de l'eau animé et de la neige qui tombe.
 ![Image_scene](../images/table_s14.jpg)
 
 # Jérémy Provost
